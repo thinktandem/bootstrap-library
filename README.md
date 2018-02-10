@@ -9,5 +9,5 @@ To use:
 
 ```bash
 composer config repositories git https://github.com/thinktandem/bootstrap-library
-composer require thinktandem/bootstrap-library
+composer require thinktandem/bootstrap
 ```
