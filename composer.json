@@ -1,0 +1,13 @@
+{
+  "name": "thinktandem/bootstrap_library",
+  "description": "Simple Bootstrap 4 Library Download",
+  "type": "drupal-library",
+  "license": "GPL-2.0",
+  "homepage": "https://github.com/thinktandem/bootstrap-library",
+  "authors": [
+      {
+          "name": "John Ouellet",
+          "email": "john@thinktandem.io"
+      }
+  ]
+}
